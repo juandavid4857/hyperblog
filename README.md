@@ -7,5 +7,6 @@ El curso de git y github era lo que me hacia falta para seguir avanzando en la e
 * Porque quiero
 * Porqué deseo
 * Porqué se me antoja
+* Creado por el increible Platzi Team
 
 Y AQUI VA UN MENSAJE CHEVERE PARA PROFUNDIZAR 
